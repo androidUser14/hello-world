@@ -10,6 +10,7 @@ use Cake\Datasource\ConnectionManager;
 
 class ProductsController extends AppController
 {
+	hello
 
 	/*public function initialize()
     {
@@ -71,7 +72,6 @@ class ProductsController extends AppController
             }
         }
         $this->set('product', $product);
-        
     }
 
     public function edit($id = null){
