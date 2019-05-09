@@ -10,6 +10,7 @@ use Cake\Datasource\ConnectionManager;
 
 class ProductsController extends AppController
 {
+	hello
 
 	/*public function initialize()
     {
