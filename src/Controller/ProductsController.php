@@ -51,7 +51,6 @@ class ProductsController extends AppController
             }
         }
         $this->set('product', $product);
-        
     }
 
     public function adduom($id){
